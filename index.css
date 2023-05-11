@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 40px;
+    
+}
+table,tr,td{
+    border: solid black;
+    border-collapse: collapse;
+    padding: 2px;
+    margin: 10px;
+}
+.a{
+    background-color:rgb(90, 233, 93) ;
+}
+.b{
+    background-color: aqua;
+}
+.c{
+    background-color: aqua;
+}
+.d{
+    background-color: chartreuse;
+}
+.e{
+    background-color: darkkhaki;
+}
+.f{
+    background-color:orchid;
+}
